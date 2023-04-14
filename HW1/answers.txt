@@ -1,6 +1,0 @@
-A. to do this task by the classic method would take days, and we were probably going to make mistakes while doing it.
-
-B. in a nutshell that some taks are much easier to do using the bash script, lets say for example that there is a spelling mistake that have been repeated multiple times in an article and we want to know precisely how we could use this method to count them.
-
-C. we could use crontab command to run the script every hour and to remove the duplicates we can use "uniq".
-
