@@ -1,0 +1,7 @@
+question 1:
+our main function in four of the five c files is exactly the same, because we get the arguments in each file in the same way,
+so we could write only a one c code (one file) instead of this four and a four functions (min, max, mean, median) and call all of this functions in the main function and get the same results.
+
+question 2:
+the grades that we have got are uniformly divided, and we can check this by using the median function that we have written.
+the median that we have got was always close to 50, so we can conclude from this that the grades are uniformly divided into two intervals [0,50] and [51,100].
